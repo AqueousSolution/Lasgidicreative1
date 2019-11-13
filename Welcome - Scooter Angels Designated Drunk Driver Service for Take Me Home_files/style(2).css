@@ -1,0 +1,219 @@
+/*
+Theme Name:   Carservice Child
+Description:  Carservice Child Theme
+Template:     carservice
+Version:      1.0
+Text Domain:  carservice
+*/
+
+body {
+   color:#fffff!important;
+}
+.vc_custom_1480343289248 a {
+    background: #000;
+}
+
+.prtPlugLink {
+    display: none !important;
+}
+
+a.more.hp-discoveryjoin {
+    background: #000;
+}
+
+.padding-bottom-70 {
+    padding-bottom: 0px !important;
+}
+
+.sf-menu li a, .sf-menu li a:visited {
+	color:#fffff!important;
+}
+
+.copyright a {
+color:#fffff!important;
+}
+
+div.ufo-form label {
+color:#fffff!important;
+}
+
+.theme-page {
+    background: #000000;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	   color:#fffff!important;
+} 
+
+.header-container {
+    padding: 26px 0;
+    background: #000000;
+}
+
+.vc_column_container>.vc_column-inner {
+    box-sizing: border-box;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    width: 100%;
+}
+
+.site-container {
+    background: #000;
+}
+
+.caroufredsel_wrapper {
+    display: block;
+    text-align: center;
+    float: none;
+    position: relative;
+    top: auto;
+    right: 20% !important;
+    bottom: auto;
+    left: 17% !important;
+    z-index: 0;
+    width: 920px !important;
+    height: 120px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.our-clients-list li {
+    width: 200px;
+}
+
+.abovemenu {
+float: right;
+text-align: right;
+width: 100%;
+padding-bottom: 20px;
+}
+
+
+.abovemenu span {
+    color: #FEC602;
+}
+
+.vc_row.gray {
+    background: #FEC602!important;
+}
+
+.vc_row.gray a {
+color: #ffffff!important;
+}
+
+li {
+    color: #fff !important;
+}
+
+.wpb_text_column ul {
+    list-style: square !important;
+    padding-left: 35px;
+    line-height: 25px;
+}
+
+.vc_toggle_title>h4 {
+color:#FEC602!important;
+}
+
+.appcalltoaction {
+    text-align: center;
+}
+
+.more, .more[type="submit"] {
+color: #000000 !important;
+font-weight: bold;
+}
+
+a.more.hp-discoveryjoin {
+    background: #000;
+    color: #FEC602 !important;
+}
+
+div.ufo-form span.ufo-cell-center {
+    width: 78% !important;
+}
+
+textarea#ufo-field-id-746 {
+    width: 100% !important;
+}
+
+.bread-crumb-container {
+text-transform: uppercase;
+}
+
+.bread-crumb-container label, .bread-crumb li, .bread-crumb li a {
+color: #000000;
+font-weight: bold;
+}
+
+.bread-crumb a {
+color: #000000;
+font-weight: bold;
+}
+
+.page-header-left h1 {
+color: #000000;
+}
+
+.feature-item p {
+text-align:center;
+margin-left: 0px;
+}
+
+div#hpfeatureditems h5 {
+    text-align: center;
+}
+
+.feature-item {
+margin-top: 0px; 
+}
+
+a#expand,a.collapse1 {
+    background: #fec602;
+    color: #000;
+    padding: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.style2 {
+    color: #fff;
+    font-weight: normal;
+    text-decoration: none;
+    padding-left: 5px;
+}
+
+div#show_hide_popular_plan ul {
+    margin-left: 15px;
+}
+
+input.signupformsbtn {
+    /* padding-bottom: 25px; */
+    width: 100px !important;
+    height: 45px !important;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #000;
+    background: #fec602;
+    border: none;
+cursor: pointer;
+}
+
+div#show_hide_popular_plan, div#show_hide_saver_plan, div#show-hide3, div#show-hide6 , div#show-hide2, div#show-hide1 {
+    line-height: 1.6;
+}
+
+a.more.inpg-appdownload {
+    text-align: center;
+    margin-left: 25%;
+}
+
+.prtColumnName_contrast {
+    color: #000000 !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+}
+
+.prtlocalColumn_contrast {
+min-width: 19% !important;
+}

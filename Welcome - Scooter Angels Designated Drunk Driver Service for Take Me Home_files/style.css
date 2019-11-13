@@ -1,0 +1,20 @@
+/*
+Theme Name: Standard
+Theme URI: http://readyshoppingcart.com/
+Author: Exist
+Author URI: http://readyshoppingcart.com/
+Description: This is a default theme to our plugin
+Version: 1.0
+*/
+
+.bupErrorMsg {
+    color: red;
+    font-weight: bold;
+}
+.bupSuccessMsg {
+    color: green;
+    font-weight: bold;
+}
+.bupInputError {
+    border: 2px red solid !important;
+}

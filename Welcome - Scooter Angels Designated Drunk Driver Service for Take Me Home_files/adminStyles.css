@@ -1,0 +1,203 @@
+.cls{
+	clear:both;
+}
+.prtCls{
+	clear:both;
+}
+.prtSuccessMsg{
+	color: green;
+    font-weight: bold;
+}
+.prtErrorMsg {
+    color: red;
+    font-weight: bold;
+}
+
+/*--- All ----*/
+.prtMainTable .prtMenu > li {
+    float: left;
+    padding: 5px;
+}
+.prtMainTable .prtMenu {
+    margin-top: -15px;
+    padding-top: 0;
+}
+.menu-item-handle div{
+	float:left;
+}
+.prtHead1{
+	margin:0px 10px 0px 0px;
+}
+.prtHead3{
+	margin:0px 0px 0px 5px;
+}
+.prt-li-desc .prtHead3{
+	margin:0px 0px 0px 35px;
+}
+.prtMainTable .trash {
+    background: url(../css/images/trash.png) no-repeat;
+    cursor: pointer;
+    float: right;
+    height: 20px;
+    margin-top: 3px;
+    width: 20px;
+}
+.menu-item-handle, .menu-item-settings {
+    width: 245px;
+}
+.edit-fields label{
+	margin:0px 30px 0px 0px;
+}
+
+#ptrInfoPanel{
+	height:55px;
+	text-align:center;
+	margin:5px 0px 0px 0px;
+	border:#F9F9F9;
+	border-style:ridge !important;
+}
+#insMsgInfo{
+	margin:18px 0px 0px 0px;
+	text-align:center;
+}
+.prtTemplates-list-icon {
+    -moz-box-sizing: border-box;
+    background-color: #21759B;
+    background-image: linear-gradient(to bottom, #2A95C5, #21759B);
+    border-color: #21759B #21759B #1E6A8D;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: 0 1px 0 rgba(120, 200, 230, 0.5) inset;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 12px;
+    height: 30px;
+    padding-top: 5px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+    width: 150px;
+}
+
+.add_column{
+	-moz-box-sizing: border-box;
+    border: medium dashed #CCCCCC;
+    color: #CCCCCC;
+    cursor: pointer;
+    display: block;
+    margin-top: 20px;
+    width: 210px;
+	height: 292px
+}
+.add_column_text {
+    font-size: 20pt;
+    margin-bottom: 40%;
+    margin-top: 50%;
+    position: relative;
+    text-align: center;
+}
+.correct1{
+	height:130px;
+}
+.correct1 td{
+	padding:5px 0px;
+}
+.add-settings1{
+	padding-bottom:0px;
+}
+.add-settings2{
+	padding-bottom:0px;
+}
+#pricing-table-preview .inside{
+	overflow:auto;
+}
+#pricing-table-tables-options .inside{
+	overflow:auto;
+	height:410px;
+}
+.prtMainTable{
+	width:970px;
+	
+}
+.prtSetClickSlide{
+	font-size:9px;
+	color:#000;
+	cursor:pointer;
+	margin:-7px 0px 0px 3px;
+}
+.prtSetClickSlide:hover{
+	color:#09F;
+}
+.prtHeadSetSlide{
+	display:none;
+}
+#prtStyleSelect{
+	margin:0px 0px 0px 26px;
+}
+#pricing-table-options select{
+	padding:0 !important;
+	height:23px;
+}
+
+#TB_ajaxContent{
+	/*overflow-x:hidden !important;
+	height:500px !important;*/
+}
+.prtPopupTemplate{
+	width:800px;
+}
+.prtPopupTemplateWrap{
+	width:756px;
+}
+.prtTicketTmpSel{
+	-moz-box-sizing: border-box;
+    background: none repeat scroll 0 0 #F9F9F9;
+    border: 1px solid #CCCCCC;
+    border-radius: 13px 13px 13px 13px;
+    float: left;
+    height: 240px;
+    margin: 3px;
+    position: relative;
+    width: 370px;
+}
+.prtTicketName{
+	color: #454545;
+    text-align: center;
+	font-size:22px;
+	padding:15px 0px 15px 0px;
+	border-bottom:1px solid #000;
+}
+.prtTicketImgBlock{
+	height:203px;
+}
+.prtTicketImg{
+	padding:15px 0px 15px 0px;
+	text-align:center;
+	cursor:pointer;
+}
+.prtTicketTmpSel .button{
+    padding: 0 12px 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 158px;
+}
+
+.prtAdminFooterShell {
+    color: #777777;
+    font-size: 12px;
+	margin: 0 20px 0 165px;
+    padding-bottom: 45px;
+	border-top: 1px solid #DFDFDF;
+    color: #777777;
+    font-size: 12px;
+    height: 65px;
+}
+.prtAdminFooterCell {
+	float: left;
+	margin-right: 5px;
+	padding-top: 8px;
+}
+.prtPlugLink{
+	font-size:10px;
+}
